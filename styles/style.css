@@ -48,6 +48,31 @@
     color: white;
 }
 
+/* About me part */
+
+.about-me-image
+{
+    position: absolute;
+    left: 250px;
+    top: 700px;
+}
+
+.about-me-header
+{
+    position: absolute; 
+    top: 710px;
+    right: 400px;
+    
+}
+
+.about-me-para
+{
+    position:absolute;
+    top: 750px;
+    left: 400px;
+    text-align: right;
+}
+
 /* failures of prev year */
 .fail-header {
     position: absolute;
@@ -103,7 +128,7 @@ ul li:before {
     width: 569px;
     height: 723.3px;
     left: 206px;
-    top: 939px;
+    top: 1000px;
     color: bisque;
 }
 
@@ -112,7 +137,7 @@ ul li:before {
 .plans {
     display: flex;
     justify-content: space-between;
-    margin: 1200px 200px 0 300px
+    margin: 1300px 200px 0 300px
 }
 
 .plan-header {
@@ -120,7 +145,7 @@ ul li:before {
     width: 179px;
     height: 47px;
     left: 711px;
-    top: 1790px;
+    top: 1890px;
     text-align: center;
 
     font-weight: 700;
@@ -148,7 +173,7 @@ ul li:before {
     width: 1100px;
     height: 300px;
     left: 200px;
-    top: 2216.3px;
+    top: 2250.3px;
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     border-radius: 8px;
     background-image: url(../images/watch.png);
