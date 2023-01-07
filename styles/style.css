@@ -1,0 +1,271 @@
+* {
+    margin: 0%;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+
+.header-head {
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    left: 800px;
+    top: 150px;
+
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 70px;
+    text-align: right;
+
+    color: #151414;
+}
+
+.header-para {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 800px;
+    top: 380px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: right;
+
+    color: #444343;
+}
+
+
+.btn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1140px;
+    top: 500px;
+    background-color: orangered;
+    color: white;
+}
+
+.fail-header {
+    position: absolute;
+    width: 280px;
+    height: 90px;
+    left: 900px;
+    top: 1180px;
+
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+
+}
+
+.fail {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 900px;
+    top: 1290px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content: '✓';
+    color: green;
+}
+
+.failures {
+    position: absolute;
+    width: 350px;
+    height: 180px;
+    left: 850px;
+    top: 1400px;
+    line-height: 2;
+}
+
+.person {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    color: bisque;
+}
+
+.plans {
+    display: flex;
+    justify-content: space-between;
+    margin: 1100px 200px 0 300px
+}
+
+.plan-header {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1790px;
+
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #151414;
+}
+
+
+.planhead {
+    text-align: center;
+}
+
+.plandescription {
+    text-align: center;
+    color: #737272;
+}
+
+.mind {
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2216.3px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+    background-image: url(../images/watch.png);
+}
+
+.mindset {
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2275px;
+
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: white;
+
+}
+
+.btn2 {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2393.3px;
+
+    background: #ffffff;
+    color: red;
+    border-radius: 5px;
+}
+
+.footer {
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2646px;
+
+    background: black;
+}
+
+.future {
+    position: absolute;
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 150px;
+    color: white;
+}
+
+.subscribe {
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 150px;
+    color: #ffffff;
+}
+
+.futpara {
+    position: absolute;
+    width: 485px;
+    height: 78px;
+    left: 0px;
+    top: 50px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    color: white;
+}
+
+.email {
+
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    left: 0px;
+    top: 150px;
+    
+}
+
+.phone {
+    position: absolute;
+    width: 186px;
+    height: 26px;
+    left: 0px;
+    top: 180px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.pict {
+    position: absolute;
+    width: 175px;
+    height: 46px;
+    left: 0px;
+    top: 250px;;
+}
+
+.email-box {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 325px;
+    height: 64px;
+    left: px;
+    top: 50px;
+    
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: #151414;
+    color: white;
+}
+
+.btn3 {
+    position: absolute;
+    width: 170px;
+    height: 64px;
+    left: px;
+    top: 120px;
+    color: orangered;
+    border-radius: 8px;
+}
+
