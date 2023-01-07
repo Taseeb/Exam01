@@ -4,11 +4,12 @@
     font-style: normal;
 }
 
+/* All thinks are possible */
 .header-head {
     position: absolute;
     width: 500px;
     height: 100px;
-    left: 800px;
+    left: 700px;
     top: 150px;
 
     font-weight: 700;
@@ -19,11 +20,12 @@
     color: #151414;
 }
 
+/* Many variations of passages */
 .header-para {
     position: absolute;
     width: 494px;
     height: 78px;
-    left: 800px;
+    left: 700px;
     top: 380px;
 
     font-weight: 400;
@@ -35,17 +37,18 @@
     color: #444343;
 }
 
-
+/* contact us */
 .btn {
     position: absolute;
     width: 160px;
     height: 64px;
-    left: 1140px;
+    left: 1040px;
     top: 500px;
     background-color: orangered;
     color: white;
 }
 
+/* failures of prev year */
 .fail-header {
     position: absolute;
     width: 280px;
@@ -58,6 +61,8 @@
     line-height: 45px;
 
 }
+
+/* Contrary to popular belief paragraph */
 
 .fail {
     position: absolute;
@@ -82,6 +87,7 @@ ul li:before {
     color: green;
 }
 
+/* Checklist */
 .failures {
     position: absolute;
     width: 350px;
@@ -91,6 +97,7 @@ ul li:before {
     line-height: 2;
 }
 
+/* person image */
 .person {
     position: absolute;
     width: 569px;
@@ -99,6 +106,8 @@ ul li:before {
     top: 939px;
     color: bisque;
 }
+
+/* all of my plans part */
 
 .plans {
     display: flex;
@@ -131,6 +140,8 @@ ul li:before {
     color: #737272;
 }
 
+/* positive minset part */
+
 .pos-mind {
     background-repeat: no-repeat;
     position: absolute;
@@ -158,6 +169,7 @@ ul li:before {
 
 }
 
+/* call now part */
 .btn2 {
     position: absolute;
     width: 160px;
@@ -169,6 +181,8 @@ ul li:before {
     color: red;
     border-radius: 5px;
 }
+
+/* future and subscription part */
 
 .footer {
     display: flex;
@@ -259,6 +273,7 @@ ul li:before {
     color: white;
 }
 
+/* subscribe button */
 .btn3 {
     position: absolute;
     width: 170px;
