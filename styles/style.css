@@ -4,7 +4,6 @@
     font-style: normal;
 }
 
-
 .header-head {
     position: absolute;
     width: 500px;
@@ -131,7 +130,7 @@ ul li:before {
     color: #737272;
 }
 
-.mind {
+.pos-mind {
     background-repeat: no-repeat;
     position: absolute;
     width: 1140px;
@@ -173,7 +172,7 @@ ul li:before {
 .footer {
     display: flex;
     position: absolute;
-    width: 1600px;
+    width: 1500px;
     height: 577px;
     left: 0px;
     top: 2646px;
